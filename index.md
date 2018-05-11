@@ -7,6 +7,11 @@ Currently, I'm pursuing a master's degree in computer engineering at Chulalongko
 My interests are smart societies, internet of things, intelligent transportation system, automation,
 virtual assistants, immersive technologies, computer network, computer security, games, etc.
 
+### Profile and Portfolio
+
+- [CV](cv.pdf)
+- [LinkedIn](https://www.linkedin.com/in/visatouch)
+
 ### Contacts
 
 - E-Mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
@@ -14,4 +19,3 @@ virtual assistants, immersive technologies, computer network, computer security,
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [SoundCloud](https://soundcloud.com/xerodotc)
 - [Keybase profile](https://keybase.io/xerodotc)
-- [CV](cv.pdf)
