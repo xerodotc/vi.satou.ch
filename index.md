@@ -14,7 +14,7 @@ virtual assistants, immersive technologies, computer network, computer security,
 
 ### Contacts
 
-- E-Mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
+- E-mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
 - [GitHub](https://github.com/xerodotc)
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [SoundCloud](https://soundcloud.com/xerodotc)
