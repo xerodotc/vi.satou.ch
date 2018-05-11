@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/xerodotc/vi.satou.ch/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Visatouch Deeying. My nickname is Boat.
+Also known as "xerodotc" on the internet.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Currently, I'm pursuing a master's degree in computer engineering at Chulalongkorn University.
+My interests are smart societies, internet of things, intelligent transportation system, automation,
+virtual assistants, immersive technologies, computer network, computer security, games, etc.
 
-### Markdown
+### Contacts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xerodotc/vi.satou.ch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- E-Mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
+- [GitHub](https://github.com/xerodotc)
+- [LinkedIn](https://www.linkedin.com/in/visatouch)
+- [SoundCloud](https://soundcloud.com/xerodotc)
+- [Keybase profile](https://keybase.io/xerodotc)
+- [CV](cv.pdf)
