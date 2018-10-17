@@ -1,7 +1,7 @@
 ## Introduction
 
 My name is Visatouch Deeying. My nickname is Boat.
-Also known as "xerodotc" on the internet.
+Also use "xerodotc" as an alias on the internet.
 
 Currently, I'm pursuing a master's degree in computer engineering at Chulalongkorn University.
 My current research topic is about vehicular networks.
