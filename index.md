@@ -21,7 +21,7 @@ I would watch it without hesitation.
 
 Sometime, I do piano covers and music compositions.
 Those stuffs are on [SoundCloud](https://soundcloud.com/xerodotc).
-I play [BanG Dream! GBP](https://bandori.party/user/19593/xerodotc/), [osu!](https://osu.ppy.sh/u/xerodotc)
+I play [BanG Dream! GBP](https://bandori.party/user/xerodotc/), [osu!](https://osu.ppy.sh/u/xerodotc)
 and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
 
 ### Contacts
