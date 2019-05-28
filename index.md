@@ -13,7 +13,7 @@ I would watch it without hesitation.
 
 ### Profile and Portfolio
 
-- [CV](cv.pdf)
+- [CV](cv.pdf) (address is redacted, will provide unredacted version upon request)
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [GitHub](https://github.com/xerodotc)
 
