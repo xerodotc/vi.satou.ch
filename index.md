@@ -3,13 +3,9 @@
 My name is Visatouch Deeying. My nickname is Boat.
 Also use "xerodotc" as an alias on the internet.
 
-Currently, I'm pursuing a master's degree in computer engineering at Chulalongkorn University.
-My current research topic is about vehicular networks.
 I have interest in creations and technologies that will impact how we live. (e.g. IoT and automation)
 
 I think I can be described as otaku. I like anime, manga and games.
-If the anime is involved with programming or IT/game companies (such as NEW GAME!),
-I would watch it without hesitation.
 
 ### Profile and Portfolio
 
