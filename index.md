@@ -1,9 +1,10 @@
 ## Introduction
 
 My name is Visatouch Deeying. My nickname is Boat.
-Also use "xerodotc" as an alias on the internet.
+Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
 
-I have interest in creations and technologies that will impact how we live. (e.g. IoT and automation)
+I have interest in creations and technologies that will impact how we live.
+(e.g. Internet of things, smart city and automation)
 
 I think I can be described as otaku. I like anime, manga and games.
 
