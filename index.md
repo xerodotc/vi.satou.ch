@@ -17,7 +17,7 @@ I think I can be described as otaku. I like anime, manga and games.
 ### Other stuffs
 
 Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
-I play [BanG Dream! GBP](https://bandori.party/user/xerodotc/), [osu!](https://osu.ppy.sh/u/xerodotc)
+I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc), [osu!](https://osu.ppy.sh/u/xerodotc)
 and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
 
 ### Contacts
