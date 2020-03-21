@@ -23,4 +23,4 @@ and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
 ### Contacts
 
 - E-mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
-- PGP Public Key: [8FB2 0CD2 A5D3 0043 970A A624 8A94 9613 FA88 0816](pgp.asc)
+- PGP Public Key: [8FB2 0CD2 A5D3 0043 970A A624 8A94 9613 FA88 0816](pgp.asc.txt)
