@@ -1,0 +1,60 @@
+==================================================================
+https://keybase.io/xerodotc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vi.satou.ch
+  * I am xerodotc (https://keybase.io/xerodotc) on keybase.
+  * I have a public key ASDj3Z9AJJZ6StaNr1tYgMr7eZpBPHmqq92T0DwzjiwD8Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e3dd9f4024967a4ad68daf5b5880cafb799a413c79aaabdd93d03c338e2c03f10a",
+      "host": "keybase.io",
+      "kid": "0120e3dd9f4024967a4ad68daf5b5880cafb799a413c79aaabdd93d03c338e2c03f10a",
+      "uid": "d696f2e41894fc46a82d21bd0d61a519",
+      "username": "xerodotc"
+    },
+    "merkle_root": {
+      "ctime": 1585924112,
+      "hash": "b02113b5be6498d44ff9fcc56f3903bf1f4321aed98e9b97e6dbbf3a2fcca1a1a2f209e723fb7d1f3b4efa9be8f7b3bb8a3415138
+abfdfd1f3746e83a4329bd2",
+      "hash_meta": "3aae9bc29cc98a32e9d60f7853b83e96fecb102415b5f31f7a1cceb189a6e567",
+      "seqno": 15752964
+    },
+    "service": {
+      "entropy": "a3wBk27X7Ju0E5zqIlVUQZ2u",
+      "hostname": "vi.satou.ch",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585924135,
+  "expire_in": 504576000,
+  "prev": "cee3ce7b293f37b2939db7fbe661eafdb7b2e45053a9cdb69204bb120dc71904",
+  "seqno": 54,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg492fQCSWekrWja9bWIDK+3maQTx5qqvdk9A8M44sA/EKp3BheWxvYWTESpcCNsQgzuPOeyk/
+N7KTnbf75mHq/bey5FBTqc22kgS7Eg3HGQTEIK8rOv8xKcF7NJpCuq8VyxgU4YizTJeIz8gyKHgP9kIsAgHCo3NpZ8RAD5cAm2IbFu/e2cyhXf3gLQamgEja
+lnABWCbWx5+TJrjCcr7cWZgOcS4dTMeo674eeTHlcm9tRC7quXwId4QzCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN26xuoHaXOWcFXWFzInqhpX
+G/W7jNcF1zLoEEViIdf8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xerodotc
+
+==================================================================
