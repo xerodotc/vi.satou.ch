@@ -5,7 +5,7 @@ Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
 I'm a software engineer working at some private company 
 (but it's not really hard to find where I'm working at).
 
-I have interests and passions for innovations and technologies that will impact everyday lifes
+I have interests and passions for innovations and technologies that will impact everyday life
 and improve our standard of living. I'm also stand for people's freedom, liberty and democracy.
 I'm against internet censorship and violation of privacy.
 
