@@ -1,10 +1,13 @@
 ## Introduction
 
-My name is Visatouch Deeying. My nickname is Boat.
+My name is Visatouch. My nickname is Boat.
 Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
+I'm a software engineer working at some private company 
+(but it's not really hard to find where I'm working at).
 
-I have interest and passion for creations and technologies that will impact how we live.
-For example, an Internet of things, smart city, automation and digital transformation.
+I have interests and passions for innovations and technologies that will impact everyday lifes
+and improve our standard of living. I'm also stand for people's freedom, liberty and democracy.
+I'm against internet censorship and violation of privacy.
 
 I could be described as otaku. I like Japanese subcultures especially anime, manga and games.
 
@@ -17,8 +20,8 @@ I could be described as otaku. I like Japanese subcultures especially anime, man
 ### Other stuffs
 
 Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
-I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc), [osu!](https://osu.ppy.sh/u/xerodotc)
-and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
+I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc),
+D4Dj Groovy Mix and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
 
 ### Contacts
 
