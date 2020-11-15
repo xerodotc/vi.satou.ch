@@ -20,8 +20,7 @@ I could be described as otaku. I like Japanese subcultures especially anime, man
 ### Other stuffs
 
 Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
-I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc),
-D4Dj Groovy Mix and some games on [Steam](https://steamcommunity.com/id/xerodotc/).
+I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc) and D4DJ Groovy Mix.
 
 ### Contacts
 
