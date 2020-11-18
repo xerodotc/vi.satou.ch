@@ -13,7 +13,7 @@ I could be described as otaku. I like Japanese subcultures especially anime, man
 
 ### Profile and Portfolio
 
-- [CV](cv.pdf) (address is redacted, will provide unredacted version upon request)
+- [CV](cv.pdf)
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [GitHub](https://github.com/xerodotc)
 
