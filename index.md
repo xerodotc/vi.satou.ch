@@ -25,4 +25,4 @@ I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc) and D4DJ 
 ### Contacts
 
 - E-mail: [visatouch@vi.satou.ch](mailto:visatouch@vi.satou.ch)
-- PGP Public Key: [8FB2 0CD2 A5D3 0043 970A A624 8A94 9613 FA88 0816](pgp.asc.txt)
+- PGP Public Key: [8FB2 0CD2 A5D3 0043 970A A624 8A94 9613 FA88 0816](https://keybase.io/xerodotc/pgp_keys.asc)
