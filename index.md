@@ -3,13 +3,13 @@
 My name is Visatouch. My nickname is Boat.
 Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
 I'm a software engineer working at some private company 
-(but it's not really hard to find where I'm working at).
+(take a look at my CV if you what to know where I'm working).
 
 I have interests and passions for innovations and technologies that will impact everyday life
 and improve our standard of living. I'm also stand for people's freedom, liberty and democracy.
 I'm against internet censorship and violation of privacy.
 
-I could be described as otaku. I like Japanese subcultures especially anime, manga and games.
+I like Japanese subcultures (i.e. anime, manga, music, games, seiyuus, and concerts).
 
 ### Profile and Portfolio
 
