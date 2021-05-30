@@ -17,10 +17,21 @@ I like Japanese subcultures (i.e. anime, manga, music, games, seiyuus, and conce
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [GitHub](https://github.com/xerodotc)
 
+### Games
+
+- [BanG Dream! Girls Band Party!](https://bestdori.com/community/user/xerodotc)
+    - Japanese Server Player ID: 68392552
+    - English Server Player ID: 1959813
+- D4DJ Groovy Mix
+    - Japanese Server Player ID: [hyWqFgV9](https://stfg.adj.st/groovy-mix?adjust_t=rnvk8ex&engagement_type=fallback_click&fallback=https%3A%2F%2Fd4dj.bushimo.jp%2F&adj_deeplink_js=1&p=ktRiGMYAAAAa8AmUAM4AAbf0r-OBl-OCjeOBqeOBhuOBl6A)
+- Arcaea
+    - Player ID: 433 875 626
+- [osu!](https://osu.ppy.sh/users/524072)
+- [Steam Profile](https://steamcommunity.com/id/xerodotc/)
+
 ### Other stuffs
 
 Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
-I play [BanG Dream! GBP](https://bestdori.com/community/user/xerodotc) and [D4DJ Groovy Mix](https://twitter.com/xerodotc/status/1350669479013859328).
 
 ### Contacts
 
