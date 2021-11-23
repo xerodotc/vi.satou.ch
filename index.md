@@ -9,7 +9,7 @@ I have interests and passions for innovations and technologies that will impact 
 and improve our standard of living. I'm also stand for people's freedom, liberty and democracy.
 I'm against internet censorship and violation of privacy.
 
-I like Japanese subcultures (i.e. anime, manga, music, games, seiyuus, and concerts).
+I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and concerts).
 
 ### Profile and Portfolio
 
