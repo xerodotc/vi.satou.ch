@@ -13,7 +13,7 @@ I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and conc
 
 ### Profile and Portfolio
 
-- [CV](cv.pdf)
+- [CV](https://satou.ch/cv)
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [GitHub](https://github.com/xerodotc)
 
