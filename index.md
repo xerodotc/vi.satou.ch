@@ -24,6 +24,7 @@ I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and conc
 - Arcaea: 433 875 626
 - osu!: [xerodotc](https://osu.ppy.sh/users/524072)
 - Steam: [xerodotc](https://steamcommunity.com/id/xerodotc/)
+- Nintendo Switch: SW-2161-5619-4516
 
 ### Other stuffs
 
