@@ -20,8 +20,8 @@ I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and conc
 ### Games
 
 - [BanG Dream! Girls Band Party!](https://bestdori.com/community/user/xerodotc): [🇯🇵683925520](https://bestdori.com/tool/playersearch/jp/68392552), [🌏1959813](https://bestdori.com/tool/playersearch/en/1959813), [🇹🇼8252398](https://bestdori.com/tool/playersearch/tw/8252398)
-- D4DJ Groovy Mix: 🇯🇵[hyWqFgV9](https://stfg.adj.st/groovy-mix?adjust_t=rnvk8ex&engagement_type=fallback_click&fallback=https%3A%2F%2Fd4dj.bushimo.jp%2F&adj_deeplink_js=1&p=ktRiGMYAAAAa8AmUAM4AAbf0r-OBl-OCjeOBqeOBhuOBl6A)
 - Arcaea: 433 875 626
+- D4DJ Groovy Mix: 🇯🇵[hyWqFgV9](https://stfg.adj.st/groovy-mix?adjust_t=rnvk8ex&engagement_type=fallback_click&fallback=https%3A%2F%2Fd4dj.bushimo.jp%2F&adj_deeplink_js=1&p=ktRiGMYAAAAa8AmUAM4AAbf0r-OBl-OCjeOBqeOBhuOBl6A)
 - osu!: [xerodotc](https://osu.ppy.sh/users/524072)
 - Steam: [xerodotc](https://steamcommunity.com/id/xerodotc/)
 - Nintendo Switch: SW-2161-5619-4516
@@ -29,6 +29,9 @@ I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and conc
 ### Other stuffs
 
 Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
+
+If you're asking what anime do I watch or what manga do I read, [here's my AniList profile](https://anilist.co/user/xerodotc).
+I used AniList to keep track of what I'm watching and reading.
 
 ### Contacts
 
