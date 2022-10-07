@@ -10,7 +10,7 @@ and improve our standard of living. I'm also stand for people's freedom, liberty
 I'm against internet censorship and violation of privacy.
 
 I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and concerts).
-BanG Dream! is my personal favorite series, I try to attend their concerts every time if I can.
+BanG Dream! is my personal favorite series, and I would describe myself as BanGDreamer (BanG Dream! fan).
 
 ### Profile and Portfolio
 
