@@ -1,7 +1,6 @@
 ## Introduction
 
-My name is Visatouch. My nickname is Boat.
-Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
+My name is Visatouch. Also use "xerodotc" or "Shiro Doushi" as an alias on the internet.
 I'm a software engineer working at some private company 
 (take a look at my CV if you what to know where I'm working).
 
