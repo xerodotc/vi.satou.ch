@@ -16,6 +16,7 @@ BanG Dream! is my personal favorite series, and I would describe myself as BanGD
 - [CV](https://satou.ch/cv)
 - [LinkedIn](https://www.linkedin.com/in/visatouch)
 - [GitHub](https://github.com/xerodotc)
+- [Medium](https://medium.com/@xerodotc)
 
 ### Games
 
