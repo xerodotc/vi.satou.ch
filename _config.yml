@@ -3,3 +3,5 @@ description: Personal Website
 logo: logo.png
 show_downloads: false
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
