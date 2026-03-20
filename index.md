@@ -7,7 +7,7 @@ and improve our standard of living. Stand for people's freedom, liberty and demo
 Against any form of authoritarianism.
 
 I like Japanese pop cultures (i.e. anime, manga, music, games, seiyuus, and concerts).
-BanG Dream! is my personal favorite series, and I would describe myself as BanGDreamer (BanG Dream! fan).
+I consider myself as a BanGDreamer (BanG Dream! fan).
 
 ### Profile and Portfolio
 
@@ -24,13 +24,13 @@ BanG Dream! is my personal favorite series, and I would describe myself as BanGD
 * Arcaea: 433 875 626
 * Steam: [xerodotc](https://steamcommunity.com/id/xerodotc/)
 
-### Other stuffs
+### Piano Covers
 
-Sometime, I do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
+I sometimes do piano covers which are available for listening on [SoundCloud](https://soundcloud.com/xerodotc).
 
-If you're asking what anime do I watch or what manga do I read,
-[here's my AniList profile](https://anilist.co/user/xerodotc).
-I used AniList to keep track of what I'm watching and reading.
+### Anime and Manga
+
+I use [AniList](https://anilist.co/user/xerodotc) to keep track of what I'm watching and reading.
 
 ### Contacts
 
